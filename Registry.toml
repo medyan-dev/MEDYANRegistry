@@ -1,0 +1,5 @@
+name = "MEDYANRegistry"
+uuid = "cf97433f-abed-4a02-acf3-1c28d7c33f7f"
+repo = "git@github.com:medyan-dev/MEDYANRegistry.git"
+
+[packages]
