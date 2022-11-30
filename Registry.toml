@@ -3,4 +3,5 @@ uuid = "cf97433f-abed-4a02-acf3-1c28d7c33f7f"
 repo = "git@github.com:medyan-dev/MEDYANRegistry.git"
 
 [packages]
+c50e25eb-ade4-4c96-a757-2a1fd62cbd8c = { name = "QMDDocTools", path = "Q/QMDDocTools" }
 d423b6e5-1c84-4ae2-8d2d-b903aee15ac7 = { name = "StorageTrees", path = "S/StorageTrees" }
